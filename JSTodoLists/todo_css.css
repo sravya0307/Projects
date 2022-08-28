@@ -1,0 +1,24 @@
+body{
+background: #C9CCD3;background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+}
+
+.col-md-5{
+ margin-top:150px;
+ background-color:white;
+}
+h1{
+ text-align:center;
+ font-weight:bolder !important;
+ margin:20px !important;
+}
+button{
+ margin-left:10px !important;
+}
+input{
+ display:inline !important;
+ border-style:solid !important;
+ border-width:3px !important;
+ border-color:black !important;
+ width:75% !important;
+ margin-bottom:20px;
+}
